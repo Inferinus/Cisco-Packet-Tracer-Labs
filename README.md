@@ -8,6 +8,23 @@ The repository serves as a practical portfolio showcasing routing, switching, ne
 
 ---
 
+## Lab Index
+
+| Lab | Technologies |
+|------|-------------|
+| [Access Lists](./Access%20Lists) | Standard ACLs, Extended ACLs |
+| [Basic Switching](./Basic%20Switching) | Layer 2 Switching |
+| [Configuring IPs](./Configuring%20IPs) | Router Interfaces, IPv4 Addressing |
+| [DHCP Lab](./DHCP%20Lab) | DHCP, DHCP Relay |
+| [NAT PAT](./NAT%20PAT) | NAT, PAT |
+| [Static Routing](./Static%20Routing) | Static Routing |
+| [RIPv2](./RIPv2) | Dynamic Routing |
+| [Advanced RIP](./Advanced%20RIP) | Route Propagation, Load Balancing |
+| [Spanning Tree](./Spanning%20Tree) | STP, Redundancy |
+| [VLAN](./VLAN) | VLANs, Trunking, Inter-VLAN Routing, VTP |
+
+---
+
 ## Current Lab Topics
 
 ### Switching
