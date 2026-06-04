@@ -151,15 +151,77 @@ Configured and validated switched network environments while developing a founda
 ```text
 .
 ├── Access Lists
-├── Basic Switching
-├── Configuring IPs
-├── DHCP Lab
-├── NAT PAT
-├── RIPv2
+│   ├── Access Control Lists Configure.pkt
+│   ├── README.md
+│   └── Topology.png
+│
 ├── Advanced RIP
+│   ├── Advanced RIP.pkt
+│   ├── README.md
+│   └── Topology.png
+│
+├── Basic Switching
+│   ├── Examine Basic Switching.pkt
+│   ├── README.md
+│   └── Topology.png
+│
+├── Configuring IPs
+│   ├── Configuring IPs on a Router.pkt
+│   ├── README.md
+│   └── Topology.png
+│
+├── DHCP Lab
+│   ├── DHCP.pkt
+│   ├── README.md
+│   └── Topology.png
+│
+├── NAT PAT
+│   ├── NAT for Internet.pkt
+│   ├── README.md
+│   └── Topology.png
+│
+├── RIPv2
+│   ├── RIPv2.pkt
+│   ├── README.md
+│   └── Topology.png
+│
 ├── Spanning Tree
+│   ├── Spanning-Tree.pkt
+│   ├── README.md
+│   └── Topology.png
+│
 ├── Static Routing
+│   ├── Static Routing.pkt
+│   ├── README.md
+│   └── Topology.png
+│
 └── VLAN
+    ├── README.md
+    │
+    ├── Creating VLANs
+    │   ├── Creating VLANs.pkt
+    │   ├── README.md
+    │   └── Topology.png
+    │
+    ├── Inter-VLAN Routing (L3 Switch)
+    │   ├── Inter-VLAN Routing L3 Switch.pkt
+    │   ├── README.md
+    │   └── Topology.png
+    │
+    ├── Router on a Stick
+    │   ├── Router on a Stick.pkt
+    │   ├── README.md
+    │   └── Topology.png
+    │
+    ├── VLAN Trunking
+    │   ├── VLAN Trunking.pkt
+    │   ├── README.md
+    │   └── Topology.png
+    │
+    └── VTP
+        ├── VTP.pkt
+        ├── README.md
+        └── Topology.png
 ```
 
 ---
