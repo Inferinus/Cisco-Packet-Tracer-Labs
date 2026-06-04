@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains Cisco Packet Tracer labs completed as part of my network engineering training and self-directed learning. The projects within this repository demonstrate practical experience configuring, troubleshooting, and validating network infrastructure using Cisco IOS devices and industry-standard networking concepts.
+This repository contains Cisco Packet Tracer labs completed as part of my network engineering training and self-directed learning. These projects demonstrate hands-on experience designing, configuring, troubleshooting, and validating enterprise networking solutions using Cisco IOS and industry-standard networking concepts.
 
-As I continue developing my networking skills, additional labs and projects will be added to showcase proficiency in routing, switching, network services, security, and enterprise networking technologies.
+The repository serves as a practical portfolio showcasing routing, switching, network services, security, and infrastructure technologies commonly found in enterprise environments.
 
 ---
 
@@ -13,47 +13,108 @@ As I continue developing my networking skills, additional labs and projects will
 ### Switching
 
 * Basic Switch Configuration
-* VLAN Configuration
+* VLAN Creation and Management
+* VLAN Trunking
 * Spanning Tree Protocol (STP)
-
-### IP Addressing
-
-* IPv4 Address Configuration
-* Network Connectivity Verification
+* VLAN Trunking Protocol (VTP)
 
 ### Routing
 
 * Static Routing
 * RIP Version 2 (RIPv2)
+* Advanced RIP Operations
+* Router-on-a-Stick
+* Inter-VLAN Routing
+* Layer 3 Switching
 
 ### Network Services
 
 * DHCP Configuration and Management
+* DHCP Relay (IP Helper Address)
+* Network Address Translation (NAT)
+* Port Address Translation (PAT)
 
 ### Security
 
-* Standard and Extended Access Control Lists (ACLs)
+* Standard Access Control Lists (ACLs)
+* Extended Access Control Lists (ACLs)
+* Administrative Access Controls
 
-### Additional Coursework
+### Network Fundamentals
 
-* FSNA Module 2 Labs
+* IPv4 Addressing
+* Router Interface Configuration
+* Connectivity Verification
+* Routing Table Analysis
+* Network Troubleshooting
 
 ---
 
 ## Skills Demonstrated
 
-* Cisco IOS CLI Configuration
+* Cisco IOS CLI Administration
 * Layer 2 Switching
-* VLAN Implementation
-* Spanning Tree Protocol (STP)
-* IPv4 Addressing
-* Network Troubleshooting
-* Static Routing
+* Layer 3 Routing
+* VLAN Design and Segmentation
+* VLAN Trunking
+* Inter-VLAN Routing
+* Layer 3 Switching
 * Dynamic Routing (RIPv2)
-* DHCP Configuration
+* Static Routing
+* DHCP Services
+* DHCP Relay
+* NAT/PAT Configuration
 * Access Control Lists (ACLs)
-* Connectivity Testing and Verification
+* Spanning Tree Protocol (STP)
+* VTP Administration
+* Network Troubleshooting
+* Route Analysis and Verification
+* Connectivity Testing
 * Network Documentation
+
+---
+
+## Featured Labs
+
+### Access Control Lists (ACLs)
+
+Designed and implemented network traffic filtering policies using both Standard and Extended ACLs to control access between network segments and secure administrative access to network devices.
+
+### Router Interface Configuration
+
+Configured and validated Layer 3 connectivity by assigning IP addressing to router interfaces, establishing gateway functionality, and verifying end-to-end communication across multiple networks.
+
+### Static Routing
+
+Implemented static routing solutions to enable communication between remote networks while analyzing packet flow and routing behavior using troubleshooting and verification tools.
+
+### Dynamic Routing with RIPv2
+
+Deployed RIPv2 to automate route exchange between routers, enabling scalable network connectivity while utilizing route advertisements and route summarization controls.
+
+### Advanced RIP Operations
+
+Enhanced routing operations through default route propagation, passive interface implementation, routing optimization, and load-balancing techniques to improve network efficiency and control routing updates.
+
+### DHCP Services
+
+Designed and deployed centralized and distributed DHCP solutions to automate IP address allocation, streamline endpoint provisioning, and support multi-network environments through DHCP relay services.
+
+### Network Address Translation (NAT/PAT)
+
+Implemented NAT and PAT to provide Internet connectivity for private networks while conserving public IP address space and maintaining secure communication between internal and external networks.
+
+### Spanning Tree Protocol (STP)
+
+Analyzed and optimized Layer 2 network resiliency through Spanning Tree Protocol, validating loop prevention mechanisms, root bridge elections, and automatic failover of redundant paths.
+
+### VLAN Technologies
+
+Designed segmented network environments using VLANs to improve security, scalability, and traffic management. Configured VLAN trunking, inter-VLAN routing through both Router-on-a-Stick and Layer 3 switching, and implemented VTP to simplify VLAN administration across multiple switches.
+
+### Layer 2 Switching Fundamentals
+
+Configured and validated switched network environments while developing a foundational understanding of MAC address learning, frame forwarding, and Ethernet switching operations.
 
 ---
 
@@ -61,6 +122,10 @@ As I continue developing my networking skills, additional labs and projects will
 
 * Cisco Packet Tracer
 * Cisco IOS Command Line Interface (CLI)
+* Ping
+* Traceroute
+* Routing Table Analysis
+* Network Verification Commands
 
 ---
 
@@ -72,8 +137,9 @@ As I continue developing my networking skills, additional labs and projects will
 ├── Basic Switching
 ├── Configuring IPs
 ├── DHCP Lab
-├── FSNA Module 2 Labs
+├── NAT PAT
 ├── RIPv2
+├── Advanced RIP
 ├── Spanning Tree
 ├── Static Routing
 └── VLAN
@@ -81,26 +147,27 @@ As I continue developing my networking skills, additional labs and projects will
 
 ---
 
-## Future Topics
+## Current Learning Focus
 
-Planned additions include:
+I am actively expanding this portfolio with additional labs covering enterprise routing, switching, security, and infrastructure technologies. Planned additions include:
 
 * OSPF
 * EIGRP
-* IPv6
-* Inter-VLAN Routing
 * EtherChannel
-* NAT/PAT
+* HSRP
+* IPv6
 * Wireless Networking
-* Network Security
 * WAN Technologies
+* Network Security
 * Enterprise Network Design
 * Network Automation Fundamentals
 
 ---
 
-## Author
+## About Me
 
 **Awwal Ahmed**
 
-Aspiring Network Engineer focused on building hands-on experience in networking, infrastructure, and enterprise technologies through practical lab environments and continuous learning.
+Network Engineering Student | IT Service Desk Specialist (Tier II) | Active Secret Clearance
+
+Recent Computer Science graduate pursuing a career in Network Engineering. This repository documents my progression through hands-on networking labs and demonstrates practical experience with Cisco networking technologies, enterprise network services, and infrastructure troubleshooting.
